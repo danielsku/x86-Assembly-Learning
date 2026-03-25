@@ -1,7 +1,6 @@
 TITLE
 
 ; Name: Skurvidas, Daniel
-; ID : 110165070
 
 INCLUDE Irvine32.inc
 INCLUDELIB Irvine32.lib
