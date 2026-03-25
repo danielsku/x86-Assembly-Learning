@@ -1,7 +1,6 @@
 TITLE
 
 ; Name: Skurvidas, Daniel
-; ID: 110165070
 ; Date: October 19, 2025
 
 INCLUDE Irvine32.inc
