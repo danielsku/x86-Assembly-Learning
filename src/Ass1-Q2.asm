@@ -2,7 +2,6 @@ TITLE Q2
 
 ; Name: Daniel Skurivdas
 ; Date: 10/1/2025
-; ID: 110165070
 
 INCLUDE Irvine32.inc
 INCLUDELIB Irvine32.lib
